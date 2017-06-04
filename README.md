@@ -17,5 +17,5 @@ Dependencies:
 - Manipulating Faces (https://vvvv.org/contribution/manipulating-faces) by joreg and woei
 
 Documentation:
-- Performance: https://vimeo.com/153788329 (upcoming)
+- Performance: https://youtu.be/sBDWBYCEobg
 - Backstage: https://vimeo.com/153786158
